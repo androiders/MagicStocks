@@ -6,3 +6,6 @@ MagicStocks is an application to do simple technical analysis on stock data. The
 It is written in c++ using Qt and those are pretty much the only requirements. Stock data is fetcehd from Yahoo finance public tables (with the limitations that comes with that). 
 
 Currently MagicStocks is in early development.
+
+QCustomPlit is used for plotting data and the needed files are included at compile time. For reference, go to their website
+http://qcustomplot.com/
